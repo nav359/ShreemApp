@@ -29,23 +29,6 @@ You can download and watch the video https://github.com/user-attachments/assets/
 
 ---
 
-## Usage
-
-You can download the app from the App Store once it becomes available. Alternatively, you can build the application locally using Xcode:
-
-### Build
-
-1. Clone the project to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/ShreemApp.git
-   ```
-2. Open the `ShreemApp/ShreemApp.xcodeproj` file to launch the project in Xcode.
-3. Click on `ShreemApp` at the top of the project navigator on the left side of Xcode to enter project settings.
-4. Update the Bundle Identifier for the project under TARGETS to ensure it is unique to you.
-5. Start the build process and run the app on your device or simulator.
-
----
-
 ## Acknowledgements
 
 Special thanks to all contributors and open-source libraries used in the project.
