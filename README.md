@@ -18,6 +18,11 @@ Download Link: https://apps.apple.com/us/app/shreem/id6464056773
 
 Watch the demo video https://github.com/user-attachments/assets/5f7e2c6f-50b2-4a2d-8e7b-40b15bee8af1
 
+<a href="https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/user-attachments/assets/5f7e2c6f-50b2-4a2d-8e7b-40b15bee8af1" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2f5d5a15-e76f-4888-9169-6e0ebe860138" alt="Watch the video" style="width:100%; max-width:600px;">
+</a>
+
+
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
