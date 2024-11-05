@@ -16,7 +16,7 @@ Download Link: https://apps.apple.com/us/app/shreem/id6464056773
 
 ## Demo Video
 
-You can download and watch the video [here]([path-to-your-video.mp4](https://github.com/user-attachments/assets/5f7e2c6f-50b2-4a2d-8e7b-40b15bee8af1)).
+You can download and watch the video https://github.com/user-attachments/assets/5f7e2c6f-50b2-4a2d-8e7b-40b15bee8af1
 
 ## Screenshots
 
